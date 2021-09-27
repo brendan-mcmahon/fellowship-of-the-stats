@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <h1>Fellowship of the Stats</h1>
-      <h2>Test</h2>
     </div>
   )
 }
